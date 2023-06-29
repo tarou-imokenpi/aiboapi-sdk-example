@@ -1,1 +1,1 @@
-TOKEN = "Aibo TOKEN
+TOKEN = "Aibo TOKEN"
